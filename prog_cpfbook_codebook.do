@@ -1,14 +1,15 @@
 *
 **|=========================================================================|
-**|	    ####	CPF	ver 1.0		####										|
-**|		>>>	cpfbook(c/a)									 				|
-**|		>>	formats and exports codebook table to Word docx					|
+**|	    ####	CPF	ver 1.0		####										
+**|		>>>	cpfbook(c/a)									 				
+**|		>>	formats and exports codebook table to Word docx					
 **|-------------------------------------------------------------------------|
-**|		Stata 16		| 	2020											|	
-**|		Konrad Turek 	|	turek@nidi.nl									|
+**|		Stata 16	| 	2020												
+**|		Konrad Turek 	|	turek@nidi.nl									
 **|=========================================================================|
 * 
 /* INFO:
+Programs to summarize variables in tables ready for the CPF Codebook
 ---
 There are separate codes for:
 - categorical variables (cpfbook) 
