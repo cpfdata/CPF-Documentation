@@ -20,7 +20,7 @@ Note, it is replacing previous docx files.
 **------------------------------------------------------------------------------
 // Inster the main directory for storing original datasets and all the CPF files 
 	
-global your_dir "D:\2019_20 CRITEVENTS"  // <--inster your directory 
+global your_dir "C:\CPF"  // <--inster your directory 
 global dir "${your_dir}\31_Codebook_CPF\"
 
 
